@@ -116,3 +116,4 @@ Wynik: wczytane wydarzenia pojawiają się w liście.
 ## Autor
 - Imię i nazwisko: Mikołaj Legień
 - Data wykonania zadania: 03.11.2025
+- Ostatnia aktualizacja została wykonana 17.11.2025 słownie: siedemnastego listopada dwa tysiące dwadzieścia pięć o godzinie 13:49 słownie: trzynastej czterdzieści dziewięć roku pańskiego 2025 (anno domini) czasu UTC+2, Last update was made on 17.11.2025 at 13:49 (anno domini)
