@@ -60,32 +60,32 @@ Zarządza kolekcją obiektów typu `Wydarzenie`.
 ## Przykładowe użycie programu
 1. Dodanie wydarzenia:
     ```Kod
-    Nazwa: Koncert Jesienny
+    Nazwa: Koncert Metalica
     Data: 2025-11-15 19:00
     Liczba miejsc: 100
 Wynik: wydarzenie pojawia się na liście.
 
 2. Rezerwacja miejsc:
     ```Kod
-    Podaj nazwę wydarzenia: Koncert Jesienny
+    Podaj nazwę wydarzenia: Koncert Metalica
     Ile miejsc zarezerwować: 20
 Wynik: liczba zarezerwowanych wzrasta.  
 
 3. Nadmierna rezerwacja:
     ```Kod
-    Podaj nazwę wydarzenia: Koncert Jesienny
+    Podaj nazwę wydarzenia: Koncert Metalica
     Ile miejsc zarezerwować: 200
 Wynik: komunikat „Brak wystarczającej liczby miejsc”.  
 
 4. Anulowanie rezerwacji:
     ```Kod
-    Podaj nazwę wydarzenia: Koncert Jesienny
+    Podaj nazwę wydarzenia: Koncert Metalica
     Ile miejsc anulować: 5
 Wynik: liczba zarezerwowanych spada.  
 
 5. Anulowanie zbyt wielu miejsc:
     ```Kod
-    Podaj nazwę wydarzenia: Koncert Jesienny
+    Podaj nazwę wydarzenia: Koncert Metalica
     Ile miejsc anulować: 100
 Wynik: komunikat „Nie można anulować więcej miejsc niż zarezerwowano”.  
 
@@ -101,7 +101,7 @@ Wynik: wczytane wydarzenia pojawiają się w liście.
 
 8. Wyświetlenie listy:
     ```Kod
-    1. Koncert Jesienny | 2025-11-15 19:00 | Miejsca: 100 | Zarezerwowane: 15 | Wolne: 85
+    1. Koncert Metalica | 2025-11-15 19:00 | Miejsca: 100 | Zarezerwowane: 15 | Wolne: 85
 
 ## Zakres testów
  - Dodanie wydarzenia – ✅
